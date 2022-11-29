@@ -15,7 +15,7 @@
 <a href="https://twitter.com/itisakdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itisakdesigns" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ig_itisak/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ig_itisak/" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/itisakdesigns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/itisakdesigns" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/ayushkumar31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ayushkumar31" height="30" width="40" /></a>
+<a href="https://www.behance.net/ayushkumar31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/ayushkumar31" height="30" width="40" /></a>
 <a href="https://medium.com/@ayushkumarverma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushkumarverma" height="30" width="40" /></a>
 </p>
 
