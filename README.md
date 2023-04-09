@@ -1,6 +1,6 @@
 ![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
 <h1 align="center">Hi 👋, I'm Ayush Kumar Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kayush96&label=Profile%20views&color=0e75b6&style=flat" alt="kayush96" /> </p>
